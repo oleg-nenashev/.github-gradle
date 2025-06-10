@@ -5,6 +5,6 @@ has adopted the Code of Conduct based on [Contributor Covenant](https://www.cont
 All contributors and community members must follow the Code of Conduct outlined at [https://gradle.org/conduct/](https://gradle.org/conduct/).
 See this page for the process and the enforcement policy.
 
-For Gradle, Inc. as a company, the employees can check out the internal documentation about the 
-Code of Conduct, Our Values and other organizational documents and policies.
-Some of the information is publicly available on our [Careers Page](https://gradle.com/careers/)
+For Gradle, Inc. as a company, employees can check out the internal documentation about the 
+Code of Conduct, Company Values, and other organizational documents and policies.
+Some of the information is publicly available on our [Careers Page](https://gradle.com/careers/) as well.
